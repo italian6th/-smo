@@ -14,5 +14,6 @@ d=[
 "that fokin' dragon SWOONER", 
 'Controller Connection: Stable italia84Yep', 
 "I'm LOVE kaestr1Hug", 
-'Wow! OBS just works! smolBrain' 
+'Wow! OBS just works! smolBrain', 
+'sand widepeepoHappy'
 ]; d[Math.floor(Math.random()*d.length)]
