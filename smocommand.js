@@ -1,6 +1,6 @@
 d=[ 
 'dream game SWOONER', 
-'it hurt my feelings to turn off the game kaestr1Cry', 
+'it hurt my feelings to turn off the game kaestr1S', 
 'Cappy WHY ARE YOU SO POGGERS ?? pepeD', 
 'dodged bonk smolFlex', 
 'psychological THRILLER pcrowDab', 
