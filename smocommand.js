@@ -15,5 +15,8 @@ d=[
 'Controller Connection: Stable italia84Yep', 
 "I'm LOVE kaestr1Hug", 
 'Wow! OBS just works! smolBrain', 
-'sand widepeepoHappy'
+'sand widepeepoHappy',
+'HELLO! smolWave'
+'Rich, Deep Story NODDERS'
+'whatifChef GAME'
 ]; d[Math.floor(Math.random()*d.length)]
