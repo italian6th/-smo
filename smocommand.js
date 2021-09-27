@@ -18,5 +18,5 @@ d=[
 'sand widepeepoHappy',
 'HELLO! smolWave',
 'Rich, Deep Story NODDERS',
-'whatifChef GAME',
+'whatifChef GAME'
 ]; d[Math.floor(Math.random()*d.length)]
